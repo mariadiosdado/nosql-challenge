@@ -110,3 +110,6 @@ The first 5 rows of your resulting DataFrame should look something like this:
 | 2  | Maidstone | 713 |
 | 3  | Newham | 711 |
 | 4  | Swale  | 686 |
+
+### Credits
+I used the starter files with the codes provided. I also used class notes and activities. Finally, I had help from my tutor.
